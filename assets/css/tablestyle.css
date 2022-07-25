@@ -1,0 +1,6 @@
+.border-small{
+    display: inline-block;
+    border:1px solid blue;
+    padding: 20px;
+    border-radius: 8px;
+}
